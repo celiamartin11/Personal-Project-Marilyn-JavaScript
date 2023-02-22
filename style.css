@@ -1,0 +1,12 @@
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 98vw;
+    height: 97vh;
+}
+
+.title{
+    font-family: sans-serif;
+    font-size: 20px;
+}
